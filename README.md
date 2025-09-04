@@ -12,8 +12,3 @@ This repository contains Python solutions for basic programming tasks.
 ### Task 2
 - Calculate the sum of numbers from **1 to 50**.
 - Print the total sum.
-
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/assignment-2.git
